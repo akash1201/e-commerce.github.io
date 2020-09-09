@@ -831,6 +831,36 @@ color: black;
     width: 100%;
 
 }
+
+.main-display-right .ratings1 form .actual-rating{
+
+display: flex;
+
+
+}
+.main-display-right .ratings1 form{
+
+width: 100%;
+
+}
+
+.main-display-right .ratings1 form .actual-rating div{
+
+width: 100%;
+
+}
+.main-display-right .ratings1 form .actual-rating .star div textarea{
+   
+    border: 0px;
+border-bottom: 1px solid green;
+
+}
+.main-display-right .ratings1 form .actual-rating .button{
+
+  margin-top: 10%;
+
+
+}
 /* Responsiveness */
 
 @media only screen and (max-width: 900px){
